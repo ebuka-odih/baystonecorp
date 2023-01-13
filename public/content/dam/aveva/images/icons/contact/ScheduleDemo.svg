@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.5" height="25.617" viewBox="0 0 29.5 25.617">
+  <g id="Group_1439" data-name="Group 1439" transform="translate(12204.75 -3603.25)">
+    <g id="Group_1437" data-name="Group 1437" transform="translate(-12204 3604)">
+      <g id="Group_1434" data-name="Group 1434" transform="translate(8.532 10.235)">
+        <path id="Path_8247" data-name="Path 8247" d="M501.527,1071.518H495V1065h16.785v5.587" transform="translate(-495 -1065)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <path id="Path_8248" data-name="Path 8248" d="M513,1070v5.03l1.372-1.143,1.372,2.287,1.143-.686-1.372-2.287,1.6-.457Z" transform="translate(-493.786 -1051.656)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <g id="Group_1436" data-name="Group 1436" transform="translate(0 0)">
+        <g id="Group_1435" data-name="Group 1435" transform="translate(0.907 1.91)">
+          <line id="Line_187" data-name="Line 187" x2="26.593" transform="translate(0 4)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+          <circle id="Ellipse_30" data-name="Ellipse 30" cx="0.5" cy="0.5" r="0.5" transform="translate(2 0)" stroke-width="1.5" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" fill="none"/>
+          <circle id="Ellipse_31" data-name="Ellipse 31" cx="0.5" cy="0.5" r="0.5" transform="translate(5.146)" stroke-width="1.5" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" fill="none"/>
+          <circle id="Ellipse_32" data-name="Ellipse 32" cx="0.5" cy="0.5" r="0.5" transform="translate(8.012)" stroke-width="1.5" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" fill="none"/>
+        </g>
+        <path id="Path_8249" data-name="Path 8249" d="M500.29,1056.239h.9A1.727,1.727,0,0,0,503,1054.6v-17.971a1.726,1.726,0,0,0-1.806-1.634H476.806a1.727,1.727,0,0,0-1.807,1.634V1054.6a1.727,1.727,0,0,0,1.807,1.634h13.548" transform="translate(-475 -1035)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
