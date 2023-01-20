@@ -741,7 +741,7 @@
 {{--                                                    </a>--}}
 {{--                                                </div>--}}
                                                 <p>
-                                                    © 2020-2022 Baystone Corporation and its subsidiaries. All Rights Reserved. Baystone Corporation and the Baystone Corporation logo are a trademark or registered trademark of Baystone Corporation International in the U.S. and other countries.
+                                                    © 2020-2023 Baystone Corporation and its subsidiaries. All Rights Reserved. Baystone Corporation and the Baystone Corporation logo are a trademark or registered trademark of Baystone Corporation International in the U.S. and other countries.
                                                     <a href="en/legal/terms-of-use/index.html" target="_self">Terms and Conditions</a>
                                                 </p>
 

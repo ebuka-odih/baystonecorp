@@ -79,7 +79,7 @@
                                             <div class="biography section">
                                                 <div class="biographywrapper">
                                                     <aside class="biographycomponent">
-                                                        <img class="biographycomponent__authorImage lozad" data-src="https://www.aveva.com/content/dam/aveva/images/people/board-members/Baystone Corporation-Board-Photo-Philip-Aiken-200x200px.png.rendition/mobile-1x.png" alt="Philip Aiken" />
+                                                        <img class="biographycomponent__authorImage lozad" data-src="{{ asset('content/dam/aveva/images/people/board-members/Baystone Corporation-Board-Photo-Philip-Aiken-200x200px.png.rendition/mobile-1x.png') }}" alt="Philip Aiken" />
                                                         <div class="biographycomponent__authorDetails">
                                                             <p class="biographycomponent__authorName">Philip Aiken</p>
                                                             <p class="biographycomponent__authorRole">Chairman</p>
@@ -253,7 +253,7 @@
                                             <div class="biography section">
                                                 <div class="biographywrapper">
                                                     <aside class="biographycomponent">
-                                                        <img class="biographycomponent__authorImage lozad" data-src="https://www.aveva.com/content/dam/aveva/images/people/board-members/Baystone Corporation-Board-Photo-Jennifer-Allerton-200x200px.png.rendition/mobile-1x.png" alt="Jennifer Allerton" />
+                                                        <img class="biographycomponent__authorImage lozad" data-src="/content/dam/aveva/images/people/board-members/Baystone Corporation-Board-Photo-Jennifer-Allerton-200x200px.png.rendition/mobile-1x.png" alt="Jennifer Allerton" />
                                                         <div class="biographycomponent__authorDetails">
                                                             <p class="biographycomponent__authorName">Jennifer Allerton</p>
                                                             <p class="biographycomponent__authorRole">Independent Non-Executive Director</p>
