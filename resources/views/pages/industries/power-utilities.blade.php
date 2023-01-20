@@ -231,7 +231,6 @@
                                                                 With a geographically dispersed workforce, nearly half of which will reach retirement age in the next five years, Arizona Public Service was able to upskill employees using cloud-based training through Baystone Corporation Operator Training Simulator and Baystone Corporation Connect. This strategy eliminated travel costs for the company and enabled standardized training across multiple plant locations.
                                                             </p>
                                                         </div>
-
                                                     </div>
                                                 </div>
                                             </div>
@@ -266,7 +265,6 @@
                                                     <div class="card-v2-t4 two-two-card clickable-card">
                                                         <h3 class="card-v2-t4__heading">Baystone Corporation Unified Operations Center</h3>
                                                         <p class="card-v2-t4__description">Baystone Corporation offers edge to enterprise visibility and control that enables agile, efficient and responsive operations. </p>
-
                                                     </div>
                                                     <div class="card-v2-t4 two-two-card clickable-card">
                                                         <h3 class="card-v2-t4__heading">Unified Project Execution</h3>

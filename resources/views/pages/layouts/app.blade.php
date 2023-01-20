@@ -281,15 +281,6 @@
     <!--[if lte IE 8]>
     <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
     <![endif]-->
-    <link rel="icon" sizes="192x192" href="img/logo.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="content/dam/aveva/images/icons/fav-icon/favicon.png" />
-    <link rel="apple-touch-icon" sizes="167x167" href="content/dam/aveva/images/icons/fav-icon/favicon.png" />
-    <link rel="apple-touch-icon" sizes="152x152" href="content/dam/aveva/images/icons/fav-icon/favicon.png" />
-    <link rel="apple-touch-icon" sizes="120x120" href="content/dam/aveva/images/icons/fav-icon/favicon.png" />
-    <meta name="msapplication-square310x310logo" content="/content/dam/aveva/images/icons/fav-icon/favicon.png" />
-    <meta name="msapplication-wide310x150logo" content="/content/dam/aveva/images/icons/fav-icon/favicon.png" />
-    <meta name="msapplication-square150x150logo" content="/content/dam/aveva/images/icons/fav-icon/favicon.png" />
-    <meta name="msapplication-square70x70logo" content="/content/dam/aveva/images/icons/fav-icon/favicon.png" />
 </head>
 
 <body class="homepage basepage page basicpage  en">
@@ -823,21 +814,7 @@
         observer.observe();
     })();
 </script>
-<script type="text/javascript">
-    window.addEventListener("message", function(event) {
-        if(event.data.type === 'hsFormCallback' && event.data.eventName === 'onFormSubmitted') {
-            if(event.data.id == "9f3a7aff-2249-46c8-90b6-3c88b4ce5675") {
-                //contact form
-            }
-            if(event.data.id == "70596ae8-2111-42df-9fc9-5210147f43e0") {
-                //products/production-management/
-            }
-            if(event.data.id == "7ab8b8d3-0baa-469c-8770-3c521cdb3abb") {
-                //fired-power-plant-with-aveva-advanced-process-control
-            }
-        }
-    });
-</script>
+
 </body>
 <!-- Mirrored from www.aveva.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Dec 2021 18:26:06 GMT -->
 

@@ -1,958 +1,0 @@
-%PDF-1.4
-%âãÏÓ
-4 0 obj 
-<<
-/JS (function runPrintDialog\(\){if\(this.URL.indexOf\("http"\)==0 && this.URL.indexOf\("print_pages=true"\)!=-1 &&!this.irsol_did_print\) {this.print\(\);this.irsol_did_print= true;}}runPrintDialog\(\);)
-/S /JavaScript
->>
-endobj 
-6 0 obj 
-<<
-/Subtype /XML
-/Type /Metadata
-/Length 6656
->>
-stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c137 79.159768, 2016/08/11-13:24:42        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
-            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
-            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
-            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
-            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
-         <dc:format>application/postscript</dc:format>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Print</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <dc:creator>
-            <rdf:Seq>
-               <rdf:li>Taylor Longly</rdf:li>
-            </rdf:Seq>
-         </dc:creator>
-         <xmp:MetadataDate>2015-10-15T10:48:06-05:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2015-10-15T10:48:06-05:00</xmp:ModifyDate>
-         <xmp:CreateDate>2015-10-15T10:48:06-05:00</xmp:CreateDate>
-         <xmp:CreatorTool>Adobe Illustrator CC 2015 (Macintosh)</xmp:CreatorTool>
-         <xmpMM:InstanceID>xmp.iid:cea9b24e-81b7-4882-ba68-64e94a8d228b</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:cea9b24e-81b7-4882-ba68-64e94a8d228b</xmpMM:DocumentID>
-         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
-         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
-         <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:3ba8a422-67d7-4fd1-aa87-edd3a0a1639e</stRef:instanceID>
-            <stRef:documentID>xmp.did:3ba8a422-67d7-4fd1-aa87-edd3a0a1639e</stRef:documentID>
-            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
-            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
-         </xmpMM:DerivedFrom>
-         <xmpMM:History>
-            <rdf:Seq>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:89609fc7-0388-424e-9bad-f27783c4327a</stEvt:instanceID>
-                  <stEvt:when>2015-10-15T10:42:07-05:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Illustrator CC 2015 (Macintosh)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:cea9b24e-81b7-4882-ba68-64e94a8d228b</stEvt:instanceID>
-                  <stEvt:when>2015-10-15T10:48:06-05:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Illustrator CC 2015 (Macintosh)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpMM:History>
-         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
-         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
-         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
-         <xmpTPg:NPages>1</xmpTPg:NPages>
-         <xmpTPg:MaxPageSize rdf:parseType="Resource">
-            <stDim:w>389.096447</stDim:w>
-            <stDim:h>121.086294</stDim:h>
-            <stDim:unit>Points</stDim:unit>
-         </xmpTPg:MaxPageSize>
-         <xmpTPg:Fonts>
-            <rdf:Bag>
-               <rdf:li rdf:parseType="Resource">
-                  <stFnt:fontName>Montserrat-Bold</stFnt:fontName>
-                  <stFnt:fontFamily>Montserrat</stFnt:fontFamily>
-                  <stFnt:fontFace>Bold</stFnt:fontFace>
-                  <stFnt:fontType>Open Type</stFnt:fontType>
-                  <stFnt:versionString>Version 2.001</stFnt:versionString>
-                  <stFnt:composite>False</stFnt:composite>
-                  <stFnt:fontFileName>Montserrat-Bold.ttf</stFnt:fontFileName>
-               </rdf:li>
-            </rdf:Bag>
-         </xmpTPg:Fonts>
-         <xmpTPg:PlateNames>
-            <rdf:Seq>
-               <rdf:li>PANTONE 2915 C</rdf:li>
-               <rdf:li>PANTONE 2955 C</rdf:li>
-            </rdf:Seq>
-         </xmpTPg:PlateNames>
-         <xmpTPg:SwatchGroups>
-            <rdf:Seq>
-               <rdf:li rdf:parseType="Resource">
-                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
-                  <xmpG:groupType>0</xmpG:groupType>
-                  <xmpG:Colorants>
-                     <rdf:Seq>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>White</xmpG:swatchName>
-                           <xmpG:mode>RGB</xmpG:mode>
-                           <xmpG:type>PROCESS</xmpG:type>
-                           <xmpG:red>255</xmpG:red>
-                           <xmpG:green>255</xmpG:green>
-                           <xmpG:blue>255</xmpG:blue>
-                        </rdf:li>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>PANTONE 2955 C</xmpG:swatchName>
-                           <xmpG:type>SPOT</xmpG:type>
-                           <xmpG:tint>100.000000</xmpG:tint>
-                           <xmpG:mode>LAB</xmpG:mode>
-                           <xmpG:L>20.784300</xmpG:L>
-                           <xmpG:A>-8</xmpG:A>
-                           <xmpG:B>-34</xmpG:B>
-                        </rdf:li>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>PANTONE 2915 C</xmpG:swatchName>
-                           <xmpG:type>SPOT</xmpG:type>
-                           <xmpG:tint>100.000000</xmpG:tint>
-                           <xmpG:mode>LAB</xmpG:mode>
-                           <xmpG:L>69.411797</xmpG:L>
-                           <xmpG:A>-16</xmpG:A>
-                           <xmpG:B>-33</xmpG:B>
-                        </rdf:li>
-                     </rdf:Seq>
-                  </xmpG:Colorants>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpTPg:SwatchGroups>
-         <pdf:Producer>Adobe PDF library 10.01</pdf:Producer>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-<?xpacket end="r"?>
-endstream 
-endobj 
-5 0 obj 
-<<
-/Metadata 6 0 R
->>
-endobj 
-8 0 obj 
-<<
-/Subtype /XML
-/Type /Metadata
-/Length 6656
->>
-stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c137 79.159768, 2016/08/11-13:24:42        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
-            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
-            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
-            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
-            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
-         <dc:format>application/postscript</dc:format>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Print</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <dc:creator>
-            <rdf:Seq>
-               <rdf:li>Taylor Longly</rdf:li>
-            </rdf:Seq>
-         </dc:creator>
-         <xmp:MetadataDate>2015-10-15T10:48:06-05:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2015-10-15T10:48:06-05:00</xmp:ModifyDate>
-         <xmp:CreateDate>2015-10-15T10:48:06-05:00</xmp:CreateDate>
-         <xmp:CreatorTool>Adobe Illustrator CC 2015 (Macintosh)</xmp:CreatorTool>
-         <xmpMM:InstanceID>xmp.iid:cea9b24e-81b7-4882-ba68-64e94a8d228b</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:cea9b24e-81b7-4882-ba68-64e94a8d228b</xmpMM:DocumentID>
-         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
-         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
-         <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:3ba8a422-67d7-4fd1-aa87-edd3a0a1639e</stRef:instanceID>
-            <stRef:documentID>xmp.did:3ba8a422-67d7-4fd1-aa87-edd3a0a1639e</stRef:documentID>
-            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
-            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
-         </xmpMM:DerivedFrom>
-         <xmpMM:History>
-            <rdf:Seq>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:89609fc7-0388-424e-9bad-f27783c4327a</stEvt:instanceID>
-                  <stEvt:when>2015-10-15T10:42:07-05:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Illustrator CC 2015 (Macintosh)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:cea9b24e-81b7-4882-ba68-64e94a8d228b</stEvt:instanceID>
-                  <stEvt:when>2015-10-15T10:48:06-05:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Illustrator CC 2015 (Macintosh)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpMM:History>
-         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
-         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
-         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
-         <xmpTPg:NPages>1</xmpTPg:NPages>
-         <xmpTPg:MaxPageSize rdf:parseType="Resource">
-            <stDim:w>389.096447</stDim:w>
-            <stDim:h>121.086294</stDim:h>
-            <stDim:unit>Points</stDim:unit>
-         </xmpTPg:MaxPageSize>
-         <xmpTPg:Fonts>
-            <rdf:Bag>
-               <rdf:li rdf:parseType="Resource">
-                  <stFnt:fontName>Montserrat-Bold</stFnt:fontName>
-                  <stFnt:fontFamily>Montserrat</stFnt:fontFamily>
-                  <stFnt:fontFace>Bold</stFnt:fontFace>
-                  <stFnt:fontType>Open Type</stFnt:fontType>
-                  <stFnt:versionString>Version 2.001</stFnt:versionString>
-                  <stFnt:composite>False</stFnt:composite>
-                  <stFnt:fontFileName>Montserrat-Bold.ttf</stFnt:fontFileName>
-               </rdf:li>
-            </rdf:Bag>
-         </xmpTPg:Fonts>
-         <xmpTPg:PlateNames>
-            <rdf:Seq>
-               <rdf:li>PANTONE 2915 C</rdf:li>
-               <rdf:li>PANTONE 2955 C</rdf:li>
-            </rdf:Seq>
-         </xmpTPg:PlateNames>
-         <xmpTPg:SwatchGroups>
-            <rdf:Seq>
-               <rdf:li rdf:parseType="Resource">
-                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
-                  <xmpG:groupType>0</xmpG:groupType>
-                  <xmpG:Colorants>
-                     <rdf:Seq>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>White</xmpG:swatchName>
-                           <xmpG:mode>RGB</xmpG:mode>
-                           <xmpG:type>PROCESS</xmpG:type>
-                           <xmpG:red>255</xmpG:red>
-                           <xmpG:green>255</xmpG:green>
-                           <xmpG:blue>255</xmpG:blue>
-                        </rdf:li>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>PANTONE 2955 C</xmpG:swatchName>
-                           <xmpG:type>SPOT</xmpG:type>
-                           <xmpG:tint>100.000000</xmpG:tint>
-                           <xmpG:mode>LAB</xmpG:mode>
-                           <xmpG:L>20.784300</xmpG:L>
-                           <xmpG:A>-8</xmpG:A>
-                           <xmpG:B>-34</xmpG:B>
-                        </rdf:li>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>PANTONE 2915 C</xmpG:swatchName>
-                           <xmpG:type>SPOT</xmpG:type>
-                           <xmpG:tint>100.000000</xmpG:tint>
-                           <xmpG:mode>LAB</xmpG:mode>
-                           <xmpG:L>69.411797</xmpG:L>
-                           <xmpG:A>-16</xmpG:A>
-                           <xmpG:B>-33</xmpG:B>
-                        </rdf:li>
-                     </rdf:Seq>
-                  </xmpG:Colorants>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpTPg:SwatchGroups>
-         <pdf:Producer>Adobe PDF library 10.01</pdf:Producer>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-<?xpacket end="r"?>
-endstream 
-endobj 
-7 0 obj 
-<<
-/Metadata 8 0 R
->>
-endobj 
-10 0 obj 
-<<
-/Subtype /XML
-/Type /Metadata
-/Length 6656
->>
-stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c137 79.159768, 2016/08/11-13:24:42        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
-            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
-            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
-            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
-            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
-         <dc:format>application/postscript</dc:format>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Print</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <dc:creator>
-            <rdf:Seq>
-               <rdf:li>Taylor Longly</rdf:li>
-            </rdf:Seq>
-         </dc:creator>
-         <xmp:MetadataDate>2015-10-15T10:48:06-05:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2015-10-15T10:48:06-05:00</xmp:ModifyDate>
-         <xmp:CreateDate>2015-10-15T10:48:06-05:00</xmp:CreateDate>
-         <xmp:CreatorTool>Adobe Illustrator CC 2015 (Macintosh)</xmp:CreatorTool>
-         <xmpMM:InstanceID>xmp.iid:cea9b24e-81b7-4882-ba68-64e94a8d228b</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:cea9b24e-81b7-4882-ba68-64e94a8d228b</xmpMM:DocumentID>
-         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
-         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
-         <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:3ba8a422-67d7-4fd1-aa87-edd3a0a1639e</stRef:instanceID>
-            <stRef:documentID>xmp.did:3ba8a422-67d7-4fd1-aa87-edd3a0a1639e</stRef:documentID>
-            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
-            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
-         </xmpMM:DerivedFrom>
-         <xmpMM:History>
-            <rdf:Seq>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:89609fc7-0388-424e-9bad-f27783c4327a</stEvt:instanceID>
-                  <stEvt:when>2015-10-15T10:42:07-05:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Illustrator CC 2015 (Macintosh)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:cea9b24e-81b7-4882-ba68-64e94a8d228b</stEvt:instanceID>
-                  <stEvt:when>2015-10-15T10:48:06-05:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Illustrator CC 2015 (Macintosh)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpMM:History>
-         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
-         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
-         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
-         <xmpTPg:NPages>1</xmpTPg:NPages>
-         <xmpTPg:MaxPageSize rdf:parseType="Resource">
-            <stDim:w>389.096447</stDim:w>
-            <stDim:h>121.086294</stDim:h>
-            <stDim:unit>Points</stDim:unit>
-         </xmpTPg:MaxPageSize>
-         <xmpTPg:Fonts>
-            <rdf:Bag>
-               <rdf:li rdf:parseType="Resource">
-                  <stFnt:fontName>Montserrat-Bold</stFnt:fontName>
-                  <stFnt:fontFamily>Montserrat</stFnt:fontFamily>
-                  <stFnt:fontFace>Bold</stFnt:fontFace>
-                  <stFnt:fontType>Open Type</stFnt:fontType>
-                  <stFnt:versionString>Version 2.001</stFnt:versionString>
-                  <stFnt:composite>False</stFnt:composite>
-                  <stFnt:fontFileName>Montserrat-Bold.ttf</stFnt:fontFileName>
-               </rdf:li>
-            </rdf:Bag>
-         </xmpTPg:Fonts>
-         <xmpTPg:PlateNames>
-            <rdf:Seq>
-               <rdf:li>PANTONE 2915 C</rdf:li>
-               <rdf:li>PANTONE 2955 C</rdf:li>
-            </rdf:Seq>
-         </xmpTPg:PlateNames>
-         <xmpTPg:SwatchGroups>
-            <rdf:Seq>
-               <rdf:li rdf:parseType="Resource">
-                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
-                  <xmpG:groupType>0</xmpG:groupType>
-                  <xmpG:Colorants>
-                     <rdf:Seq>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>White</xmpG:swatchName>
-                           <xmpG:mode>RGB</xmpG:mode>
-                           <xmpG:type>PROCESS</xmpG:type>
-                           <xmpG:red>255</xmpG:red>
-                           <xmpG:green>255</xmpG:green>
-                           <xmpG:blue>255</xmpG:blue>
-                        </rdf:li>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>PANTONE 2955 C</xmpG:swatchName>
-                           <xmpG:type>SPOT</xmpG:type>
-                           <xmpG:tint>100.000000</xmpG:tint>
-                           <xmpG:mode>LAB</xmpG:mode>
-                           <xmpG:L>20.784300</xmpG:L>
-                           <xmpG:A>-8</xmpG:A>
-                           <xmpG:B>-34</xmpG:B>
-                        </rdf:li>
-                        <rdf:li rdf:parseType="Resource">
-                           <xmpG:swatchName>PANTONE 2915 C</xmpG:swatchName>
-                           <xmpG:type>SPOT</xmpG:type>
-                           <xmpG:tint>100.000000</xmpG:tint>
-                           <xmpG:mode>LAB</xmpG:mode>
-                           <xmpG:L>69.411797</xmpG:L>
-                           <xmpG:A>-16</xmpG:A>
-                           <xmpG:B>-33</xmpG:B>
-                        </rdf:li>
-                     </rdf:Seq>
-                  </xmpG:Colorants>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpTPg:SwatchGroups>
-         <pdf:Producer>Adobe PDF library 10.01</pdf:Producer>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-<?xpacket end="r"?>
-endstream 
-endobj 
-9 0 obj 
-<<
-/Metadata 10 0 R
->>
-endobj 
-12 0 obj 
-<<
-/BaseEncoding /WinAnsiEncoding
-/Type /Encoding
-/Differences [11 /period /I /comma /s /g /n /d /l /o /H /fi /i /c /r /a /P /six /one /zero /two /space]
->>
-endobj 
-13 0 obj 
-<<
-/Filter /FlateDecode
-/Length 335
->>
-stream
-H‰\’Ínƒ0Çï<…í¡‚„–¶Bêh+qØ‡Æö 41ÒQ Ş~qÜuÒ"…üìøïà8qY+ÓM¿¹AÕ8AÛípnN!\ğÚ™HHĞšîVøª¾±QìÅõ<NØW¦¢<‡øİo“›aqĞÃ—Qüê4ºÎ\añYÖKˆë›µßØ£™ ¢ ­OôÜØ—¦GˆƒlUi¿ßMóÊkş">f‹ ƒ-øgÔ q´B×˜+FyâGùÙ"B£ÿíKÉ²K«¾çÃŸ|p’ÈSá¹¼ŞÙ_ŸoSâsàlëY$Ì¤‚yM,™I+Ræ3ñšóïˆ7ìÏü¤óDÆvà-3'v|¶$Ş³_ob®!Íˆ¹†4ÄpiˆáÒ‡käË¯å¯ë~/tq¾¿ğèŠº9çAèõ 3øx'v°àU4£ )i¡Ä
-endstream 
-endobj 
-15 0 obj 
-<<
-/Subtype /Type1C
-/Filter /FlateDecode
-/Length 1294
->>
-stream
-H‰DSmLW}ì¸0Ë³*cg¶Òj‘eÂÇ–4**°»|TÀ(
-,,Š,"”Òj(ıJLj¨-Õ¶J­mP±ëŠ#¢,H­Z±1*Æª˜šª‰Ö»ö¶±o%içÇdŞûÎ9ïÜóÄÇ‹(ŠàäìåÆ,cDª½Æ¶vCd’½¢ÄS~Å-(Ü!>É˜8Ëçà_ñÊ—HÆHc ¼¦†ì@X§éš¥Lòô-OË1ê¦öĞµëb¢¢¢t96«.Ín-­°Vërê«¬:£½¶²¤º^¯[ZY,ÓW©=AWWW'×ÔWÙËª×VÙêåbûB	 j¢!A$˜L'ád‰&I$™¤4²Œd1“l’C6^§—£¢câÒ–š×—”•WTÚ«7İ Zz(âM2›èI=i"1ŠLE¢IñØ+Î«Áë®×so•·Á{³÷nï§>F‡CœãxPm;
-f„‚€qhf?Í*·?ôå†µŒc8P»I&Ğ@,JÛX(DDcfbÆb¡¸•ÅBPc4˜Äm ñræïâéº799Á`s¤,r˜F-èŸåÎfp•é ×®ävukİ_ÃLt1Àü¦„ÀûC.ğ¥Ó#nâ«¨IË‹4Š@Ês}ö~á´s½ÙRn5,‘pf+¹Ó0Iê} aŞ9ºq”ŒEµ56qò‹ã—n	C·l'¤k Rvgd|¯Ğ	X!QYÒÁÅ½ybA÷ğÆ»ÂG0ƒ_´ªkb?66vb™*7®Y$r9¡:À ?3£Œíè€v”÷İÕNÕîì‹¶Rğc ‚& Î#(lÎœ/¢“ÿäa¨Øñ“¥FÊoZ½j¡Èm†ªF~´÷»N‡d¹p½\?X|T<b5µÅQ–w6š¥#è«léîÜáÆœ¶té}öKkIs®€Á1¹èG^¾ay$xÂ”ïë¤”'îÿÙÑñAÃ~±ŠÍYY’,re0ÚÀ?êè“bî(m¥¶Ú<!şÍó×ióÕşcı5eâ½‡Ê3ùésŒG?:İHE‘0áu‘»üÕ^GCZHgX‰zÜÍşX–ïH :Ğ/S=í© 
-èO6Ş¦øw†\##ƒæjfŒÙœì:K£÷x¼­§GêêÚ{é~¨;õ)lWQÁáxÕÈF£ÁƒÊ(Ğ\ë>Ôß%nd#
-òÃ’sZäˆ+Q–]¼^wKh›|bvÏ(¥ùõLïèè@^¥IÊÊK¤as¸'y0Ğl˜¦*iFÜ‡POæº¢: ÃíºH?¡¹ìp¸\¥KDì£ë‡,¨ÓÆ]¸ºhµMC=ËÀMÙ|¤AöLUF5M}ÎÇ@Ô ì	¹LjH ×`:ÿFÖ/W=æö]¸51`\@/X‘f ª,/>ûHüb™è¦ü•‰¾@<<³¡¹‘ßÛı ¢Ûÿ0ü°ø[Ñ²'ï«vz!Z¿Ùåpz»â”èz¢tZ÷¦
-Hb3QAÍ
-»i»R+Ö÷½·.t+»©îİÂüÌ¶cqÙ\eöÈDõwçÿïâ”!ó  QİÊİÓrxëÇ´‰Ä6Û×o_)äm±Û%»}óshy:j~báùßóş³±a§ûĞˆÜÙò#¶¦¤¤¤>÷÷ièU0s»¿?è›ı>ñçÀâ~Ìÿ+À  õf¶
-endstream 
-endobj 
-14 0 obj 
-<<
-/Descent -173
-/FontStretch /Normal
-/FontWeight 700
-/StemV 152
-/FontName /DSKFRF+Gotham-Bold
-/Ascent 932
-/ItalicAngle 0
-/CharSet (/H/I/P/a/c/comma/d/fi/g/i/l/n/o/one/period/r/s/six/space/two/zero)
-/FontBBox [-71 -173 1195 932]
-/Type /FontDescriptor
-/CapHeight 700
-/Flags 4
-/FontFile3 15 0 R
-/XHeight 536
->>
-endobj 
-11 0 obj 
-<<
-/Encoding 12 0 R
-/ToUnicode 13 0 R
-/Widths [286 336 286 502 675 623 675 302 664 760 684 302 571 418 592 668 662 422 730 623 300]
-/Subtype /Type1
-/Type /Font
-/FirstChar 11
-/LastChar 31
-/FontDescriptor 14 0 R
-/BaseFont /DSKFRF+Gotham-Bold
->>
-endobj 
-17 0 obj 
-<<
-/BaseEncoding /WinAnsiEncoding
-/Type /Encoding
-/Differences [1 /five /seven /t /u /S /comma /d /s /G /zero /eight /z /l /a /i /r /o /m /M /e /n /T /O /P /E /R /space /L /U /N /A 127 /H /hyphen /X /w /period /p /c /fi /g /I /h /y /f /k /two /b /four /parenleft /Y /K /quotedblleft /quotedblright /q /C /F /slash /B /dollar /three /six /one /colon /v /parenright /j /W /x /ampersand /fl /D /at 173 /nine]
->>
-endobj 
-18 0 obj 
-<<
-/Filter /FlateDecode
-/Length 564
->>
-stream
-H‰\”Í£0„ï<…3‡`Ì¥‰$)‡ıÑf÷8Y¤ Byûuuyg¤”¨İí¯ºmÇ»ãş8«Š¿/Swr«ºc¿¸ûôX:§Îî:ŒQªU?tkø'¿İ­£Ø'Ÿ÷ÕİãeŠ6ÿğ/ïëòT/M?İk[z·ãU½üÚ^U|zÌówsãªU×ªw_èK;moNÅ’övìıûa}¾ùœÏˆŸÏÙ)-ÿSÂtSïîsÛ¹¥¯.Ú$şS«ÍÁêÈıïKÃ´ó¥ûİ.><õÁI’åµ×šº„ÎD—ÚPKL.:Ï Ñz]Š.$¾b¼ÄXÑFj6¬Ÿ@o©+èãè=ëHÍwêú@m½NÆkhòhò{hòÑä/ÀŸ’¿x‡&æ”üFê?gø%—ü¹¬K~-1ä7`NÉŸK<ù¬E~/eĞğ^Ñ‹gE/¹<§—}«èE£Nfu«à}®è¥(Bª0É§#Ïé§5è§”çÛM?Åš~2x®Â<DÓC†ŞÙà5mğ€š–êXxĞIŠYCÏ–JôÅÒƒæK~ÙØ00XòkaûIrÉŸInà—úäÏ°Ï,ùKÄ4ÌMØOˆiÈŸ£‡M8ğØpZróÏ¾Ã[<€©	0«&p`Ù6ÿv?¢á,â°ú;E}ÜİcYü% œ~œûatwÓ<ÍÊgáı` o‚
-endstream 
-endobj 
-20 0 obj 
-<<
-/Subtype /Type1C
-/Filter /FlateDecode
-/Length 3753
->>
-stream
-H‰$TPgffyº8«°2»ê*—‡È+<E—epy­,>Pp"HŒ±’Ôz*$%ÉUr¹Ëé]*h5š (¨¼,§<‚('ñ4ñõôÒƒ=^î¯ºjşªúûº¿îş›¦œ(š¦=“6Xí–Ë“Êöå—¬.+û•rm´´4ß)	#:ıî…ñ¡Òßs?HŸ%sÏ,œË«¿K¶Yÿl£¾A¬Ï.*Ô[Ê
-wì,¬ĞgW•êÍeoí*¨¨2ê“wm$ŸeQúÊÊÊÀ=UåeoTä—Un/+¥(šÅPGQÎ4åÎS‹œ)#C­t¤"¨Õ^T1EURT)M»é)µŒò£ü*ç&Ó1Ç!ßk¾CSk‰(Ê‰0TÓnt½“>@¥?¥OÒÿuP;X>vhstqÜí¸ßñ§B§J†g"˜˜Û¬»‚Md?aO³Íì]v†¸\×®rQ•¨ö©UãÎœ³¯só Ë—m.§\&]Í®¥®ï¹6¸şİuÄm[œ[­ÛMw½{œûGî]îOx>šƒ?Æ·ğÓ>Ç0‚Ç_ørhòz§YP×Oÿì]Ë=IéDãW"â.ÿöÒ[-Û¾í^Ñ”qbÕQUwJ‡BW¼k¸%}ÙàW$b·ª>ı”õJuÁ€u´è^µªNÒèpb÷évÂv­­e²Nì”{¨æÀ±üDQ:¯µm
-?(ò§¤'ïİ‡¹g.ìnì÷ZÛP‘Q¶~g†Bóôë{„djÍ ?:&$‰5\öñ­-Y¢>?ÍHˆĞù§Pßÿş›½"n…Âú·ÏHÇ·ßõtœß–EÖÍ[CJÅ_ã!ÌÚ1¢«åºÎuüø¥V´1YöŒ¢d-U0‹„S­Eƒ„zCè89ÄriöõC¦zcêÀì+Ä= óã0@ª7¤úÍÅ;Æ×ÆÑC½14šœÆ×D^ïD^¸ù§¯ÎNxÿ3hñ×Üû[÷îÎ­RñXßĞ8,ñÕ<xÄò´ç	ƒ¬Tğ"„1±|Ì¾'€Tv" ìÈB$Zˆ9cÚ‰H´‹‘,Ö	8?| @q¼Ş04“èƒŠ[@jq>É¿’4·fm,Æ§–Î1|J‹FzgHæX°B?_éyJJ	lğ$ªÑ#9; UìÌgnµ·×ŞìËy=±À¦_®Ã£¸‡ás¡—ä¨yvæ*ç!İ…üG"”Ãï™N9Ë9ÜµŸnbšXà&6†êj¸×“láakÏôÛÄL;“Ğ1eg-_/™47‰Pºi©ÔÌÊzyï_2‰a±¹_€fxÉàK·C;‰·ìÙà£ÄóZ43
-Ş­Ú&şö005,û²•øÓå"æø¹æ?wiŸY•!æd_“åt×:1'“Ií™ÚøXËïƒ»„j1ĞÓ U¸æ£Ó$j–¦Û³
-EH>4óÀSÛ{±bK›îÂ5æÒº´†-¦ …ÑXL(qÉÉ5íYâ–ïzÊGµGCÂõ{„æÖÀÈó')a¤ê!É&ƒÈ[ÀGóƒ³Ó%—­‘/ë¿ÀØqp%;ë:"Å¾†«—&”ºSè8Šóˆ9Æ!Eh¢®æö•Š¥ÖôÈW£lø‹’Á)ÄÔv“Àn´Ş¿#ÇL\ãM9!"N:!—Ô=¨$3qõéÓ‰ìXòË”dEN$¢[ˆèpP¡¨ÖßZYlÊKÿ"Z‹ş†Åè¥hS?Ã£ÖkgDLª'É¨µië?¿”©Û¼ÙĞÕ¿ã¾öü ,MìU4OõŒ>>œBÂD[bõdğ·¥`Ajù§W³ÒAMhÕíû‚É‹[³ÇW‹û1’àM¨€U°Ş†*ˆG3¦âbsŠÉ¶³¡õµÇ?8¡û*-¾kfÎ¿¹å\¬tÑãbt˜X3=ÒzæÂY]îg-ÅÃÚG 
-1‹<ñb6ÜˆÕX™˜ê6@‹`²_û÷øØä@›mu@lX˜Ï³š	ö¤1Ò\ö6¦1ÿ`qhÖÆ$°8G¶	
-³°g¾kF½,<7¢ø_––ÈÏÅ«ko¾OZÖ´ïô®ñìöÔ¿’¶²·°O€PÌ=¾šgVæ=y«QÄí8 ÀaØÍß»%\Ç&oZ$ò#RiˆçøÅï‡u9­LŠ%uÇr-’6{B¸Ò 0òşÕô°{V—x¥“éOŒoBO-nC?ŒÄJ·6ƒ?®„<‘W’æA–¼>#@®ÏE#,Çr²c/9Aj…HA²nl)§&ŠüÑT?$› FRÉj¨–â‡ä:–ß?£ƒNÉcHö€:)fX>Lºé.Å¬]¦/vöéà$7A1®æ
-6&ì$ˆÓÃˆV‚ƒ#YCA3İ%›®ˆ­İLWâê/ÑE‹;pÆa¶,$K¿\ä)q®K~x}l6={e?è!ÛQõrÁòíŠC:KŞÍr8˜û%.C³”•—ÉáŒÃñ[ˆÒaYœåòg4£Rõ²ó>9$WFî%|ÑÖËj¬—ÔL4qóTÜÈæµËƒLÏlzœÜÉÊiR'™¬¯´ÃRˆ›îÈ‘Ã‡Q— YÄ–b,Ú”%kƒ%Åbí°€¡¨¬TŠ°X²JB‰©Pó?Ê«>ªª*‹‡xÏ5¡ÌšË*në\?–<>"!0<äËŒ A’V€©¯Ah,ûàe36¦¥ùÄ†QQ'ÓDb| * #°A*	>œğéø W¦íËìku.ÎªµfMÎêßsöŞçì½û·÷Æ0M2	+©9TØªùô64¯~3 :MÎFVÅ»ÈEÕK„Hâû"Û+$6§PáŒ¦´rÈfù¸Ÿ%¸j9˜´ÛŞS[×7­:Bëóç—°…\Äqj`³ÓÎì„ÎËšA…R¸ÊXH¾10èïN£şÅàkº™®öfÇ9[éeäw:1şà,	
-ˆÂIZÒø¾l/¢à·¦º ™‘ÒüÔeAIwÇÓœEÜ¼aG¸JÂËPãmç¡ì¼úi<”Á©x˜EH€ûoÃ“²2ëwª5¦ÈÑ'úKĞQÅwâ(¦N‡8*(éĞ¸Iì&¥Ø SµqŸx‡Õæ\‚FÕ™Ê—L0SB£bçÂ‰ĞÙàí P
--PŠ-Ü¿î…ƒ®s!„¥©v"HÁ,èä„SpÖÛ‡Ô+QÚıF¼‰f¸ÉéØ‰Í	ğG³èø‡µá¨l¸ ½|÷‹Í…GiMAÆîx)6óÅâ¹*…ÛÛØ¸«CmË‘_âwæåmœ5ÙĞEèÊb4İ™9JwuŠI?±±ğv¶Z]Ífó'4—4dR¡î°hxpb´´Ğc=Ó–¤® ğ¹á©ÿk~Ñß;³Ò+½¢NoŸÈLu:Ç†cPĞ`äÇf’8W&vZÛOÊ9\şÊ¥Ï²oÜ9“5WûÈ­ÏŠ<FO´p'rÓùK¨cğóD_-“³ØüàÁbÏ¾Óf¯wœê´Ê3ûÇM´ñíO¥d\ä‰~£	ÀÃ<iE¯è1 ‚fŞk¨ï†ÓnÚÜôQÌR"<ëE%˜”[ŞŞö†€A8sã™ dt†.0c¬«¶ı$Í­ãòW,3%Júè.p1Ë“oìèé‘¾i‰Ú.Ø<«Ë,ˆèÆ¹VÒ÷ÑÑ3ölzıCú¿}]É–BÉøÌ+ÅÅ²ÉôÒòtŸå‰ÎòÌÖf†z«d«u_‡İG‰5óm+R$ô@÷`Ôi®øƒ[0x^ïj:sœ¦ñø@\
-’¸Ç«êÒiÑB.·×^rYzªDİÜsß27oöŒ]?993$ÑŸ
-ÆËŞıĞDF»m#“u[û¡øaôšµ|ñ*
-m^øj|ªøÕ—adë|±_©0ŸNò¿Ÿ$4Z²RoPëøÜ’?™_.ß\FSø7ş²ó­JIÒÈ­ÛŠâ®,…FXëDñ0ÖsJ9{àš·–+FRÇ4éFr½³ghèDF ÅÓàÿ­}`¸y±ßÄÿÎ³ñ,Şn¡™y´ı¹¬ãÒœ<ãÒUò?™¥ÿïÑ&µ¾`\¨1¼¯–_6’²N‚ú»ÒPà«5¡›{Et‰¼®šœK¿&ƒË%=ºj2.1¡8™î2ÎûÁBîıªá[jş=‹ \yS35ix„ün'ÀM1%ïèÅZ VĞ_¾{‰øo™—úLø˜ÿ	ï¿&Ş<=ÆÔ¯…ŠŞGçïyâ¯MŒ0ëjw4·¾°¦‘V·sÕK’ö¦H³âÒg³÷¯<7XJ{^èXŸÍ¸rÙòÕ©i©û¬‹éÓ™œ±}ÈÔÇX6Š5·UüMîæ_ııó›Š¥ì¢ª.ZanğõÔ'<våŒ®•—şà Y9u¼­Z½ TÄb° 9LŸ}ÆI¡Õ€}lc;^TˆËbç•J9Ô8ŒWâ¸Gfr dâjš²¨ñk2“Š&ø°†Ó”pî	‚²+a\$f×z_&l)„9XÈ¶yUÂRØÊ¸—Õ·ƒÀÈ…ÈÆ÷8!¢0Bh®ı®^†µÊ!¦Qj¦+	ìm(S-\üSIôlé»;×ÉÅiÜ†êÃë$aZ›·’iÃQ£Š×¤.H†aª' 	ö+ëDÇ­Bòçºİš+ËªŒİ°êé(4†²i³à¿5”µl;¢m`úŸ70L/ú_{Ùj%÷?õ‰×&JöWP|ÍF-DXıkië®î¸‰é–Y”Š0ÏR¹…Ğ=IIIıà~ÿÙ©İº¶¹»_Üáş |ğÛqø£  Á'i
-endstream 
-endobj 
-19 0 obj 
-<<
-/Descent -164
-/FontStretch /Normal
-/FontWeight 400
-/StemV 80
-/FontName /GZOXHZ+Gotham-Book
-/Ascent 907
-/ItalicAngle 0
-/CharSet (/A/B/C/D/E/F/G/H/I/K/L/M/N/O/P/R/S/T/U/W/X/Y/a/ampersand/at/b/c/colon/comma/d/dollar/e/eight/f/fi/five/fl/four/g/h/hyphen/i/j/k/l/m/n/nine/o/one/p/parenleft/parenright/period/q/quotedblleft/quotedblright/r/s/seven/six/slash/space/t/three/two/u/v/w/x/y/z/zero)
-/FontBBox [-68 -164 1158 907]
-/Type /FontDescriptor
-/CapHeight 700
-/Flags 4
-/FontFile3 20 0 R
-/XHeight 517
->>
-endobj 
-16 0 obj 
-<<
-/Encoding 17 0 R
-/ToUnicode 18 0 R
-/Widths [612 596 404 616 640 245 664 498 784 715 630 556 263 579 263 405 646 951 868 592 616 648 850 668 670 723 300 619 759 790 790 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 760 408 725 861 245 664 571 631 664 291 616 591 367 569 599 664 671 434 716 719 445 445 664 738 656 508 722 636 613 647 358 255 587 434 263 1107 574 696 631 782 980 0 0 0 0 0 647]
-/Subtype /Type1
-/Type /Font
-/FirstChar 1
-/LastChar 173
-/FontDescriptor 19 0 R
-/BaseFont /GZOXHZ+Gotham-Book
->>
-endobj 
-23 0 obj 
-<<
-/Subtype /Type1C
-/Filter /FlateDecode
-/Length 627
->>
-stream
-H‰\[HSa €ÿ£nóANt9–ç¯sfO5‰¬—Š4Bd©]7uYíRs´ÛQ·yte® b¡[ÓÜd¿×–«™`7£’
-ƒ‹Èğ!£‡"¢ÛÃòXdôÖ÷úÁ÷ -±ºP³W]¦ÎÙo·Õ×™8îXı¦ûIã_E˜A‰k32¥TéÂÂôB‘ìó2,[Ş)şXR‚\·Y­Ñ6:LÊ\¥ÑtüÿÀØ
-@!ØJ€¤/ı@
-HÀ#bQKÄ‰7$‰óğüÏRJjÿUŠsqåù÷×‘Ñ	öî(šzGÏ×=­cnTçE•°kQF­Ç§ßË'®ûxÄÆøK6­oµz\ŒËcn©„ä[áOÔŒkBgâúòp	ÌİéÔ²ÏT‘nfûı}ğÉ­Œ=/¥)ÔZ¯ÃÀn½–ÖöIZKò6?	'oÅî$Ùœ­Š±’â]õ>t¸ıA/Û8ÛİC_êyÌ|tÊgÜMùóxeCŞÄMz¼+1ØÇ «¡$Dè\bQK´IpÍ~[c6ÇŒáô°ÁØa„»Šœ:[Vi/ÚAo(~¨ct¦spîUâÅsvëY•¡†«‚&KÙYR‰/‹¿©` äï†ı±S\/{ÿ«lôè¡H¬¨ákÍì	sãáƒ´eŸ¦óq˜312Š¨_R²b§8BIªÅ¬’ïg)íV:"ˆF¾(/0ïêà çöñ<Ëó­.æ:İÏğB¤Ar£¸RTQm8ÛÚfóÙš³lÍœÇÓ>ó¯‰½Š{Á±Ş+Ìpo<<Éöv9V‰©? …5ô
-endstream 
-endobj 
-22 0 obj 
-<<
-/Descent -250
-/FontStretch /Normal
-/FontWeight 700
-/StemV 75
-/FontName /DSKFRF+Montserrat-Bold
-/Ascent 948
-/ItalicAngle 0
-/CharSet (/P/a/c/f/i/r/space)
-/FontBBox [-111 -250 1083 948]
-/Type /FontDescriptor
-/CapHeight 700
-/Flags 32
-/FontFile3 23 0 R
-/XHeight 500
->>
-endobj 
-21 0 obj 
-<<
-/Encoding /WinAnsiEncoding
-/Widths [264 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 677 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 594 0 582 0 0 402 0 0 292 0 0 0 0 0 0 0 0 411]
-/Subtype /Type1
-/Type /Font
-/FirstChar 32
-/LastChar 114
-/FontDescriptor 22 0 R
-/BaseFont /DSKFRF+Montserrat-Bold
->>
-endobj 
-24 0 obj 
-<<
-/OPM 1
-/CA 1.0
-/ca 1.0
-/SA true
-/AIS false
-/BM /Normal
-/Type /ExtGState
-/OP false
-/SMask /None
-/op false
->>
-endobj 
-25 0 obj [/Separation /PANTONE#202915#20C /DeviceCMYK 
-<<
-/FunctionType 2
-/N 1.0
-/Range [0.0 1.0 0.0 1.0 0.0 1.0 0.0 1.0]
-/C1 [0.56762 0.138705 0.0 0.0]
-/C0 [0.0 0.0 0.0 0.0]
-/Domain [0 1]
->>]
-endobj 
-26 0 obj [/Separation /PANTONE#202955#20C /DeviceCMYK 
-<<
-/FunctionType 2
-/N 1.0
-/Range [0.0 1.0 0.0 1.0 0.0 1.0 0.0 1.0]
-/C1 [1.0 0.78439 0.356329 0.283513]
-/C0 [0.0 0.0 0.0 0.0]
-/Domain [0 1]
->>]
-endobj 
-27 0 obj 
-<<
-/Filter /FlateDecode
-/Length 1163
->>
-stream
-H‰TVMo\7¼¿_¡czXYIQºÆr
-` ôX›¦p‚Æ>ôïw†z.ğ>J9©Ü=<=Ş>}|ÿüø÷Ÿ_oåîÃ}+o½/Ç»øóözÜİÿÖÊí¥H)/·ïÇİ{˜_^»«üÑ°xı|\Zm²ÊõVÎŠ¶:ºöÒğïõ[šymÃ{²j„h¹~;Ş<<şrıëhyœGß<.dĞùtæÎÃãík:cepër~!a]‹é®7Ÿ¿şùgœ{7n½»?«®0gEJï£ö(®µ™”çOÇïå;//ÿ»üCòJ‚Ëô¨Sá9ÄëåöíàŞ·ã"uHÁß¥Z.Z½[şÄ*¯¾ğcØór;.l^.Le ò(XÔ†EéU%Í5•Î¢Õxzb}`ßj4£é>a:î1iF—t*=÷'ƒ…Ó\\¨MSJoµë^h½Ğœ ‡§AºT\–V[éİ³,Ìæ8E¦9‚‡µ‚Ï„FfànÕ4£)±tp&	­õ1…76Ó}UAMÀË"d•ª:ÈŞ\4µª'‹.îê$YB£vòoÉ? MhÀûv…ô`£8ÚˆQX#À0¤z¯2“Øe‚4ô…<°"ù­ eô3¨†À¼2ê¢¥6Œ`«­é‰ÕSv–R©‹ÒO¨Î2`óí‰„Ãa6Š”ÌÎ‹j£ï*µ¼0	C–`? ·ÊÓAFë‚"’˜Yó*YZ(…†Šœµ™JA8µãïYT–*¤ıµò.\0=…ô‡kËf¥û8EÅc4ÇHÑí(´¤)š¡bCÁB·¹÷ƒ÷€h)	.Ø–ğv§¸ ï-Í¶o¬’ñÒBõl(”L·ÜõØíF‚1Ënš’Ñ:•^ËÃJ¬³ù¸-»çdÓAƒÄÊİĞ×é¦É*ÈüU–¦µA³k²´€ ªZÏâMd¢´eL]P›ÓC(â©Ï*À¦(1aO„ÆDĞ=:¨cİáyPºšõD¤EcÚ®>3ÂJzIN-Ãèp ¤HAÙcì´Ãx¬µhfÔ:»S¬³)|ŒljãWì€‰Æ%Xò="»Ï“. ²,9~ãs&Ñ†q…mÌFf†Í×èì]AQ¶6g=Á*²ä¬¶C5§¦òyB¿m$ıc÷’pş*GFºbDºº§ Iİ  HO»ïİğ=kö€m}û©mI@ª<ek¬µ½w›-%¼eì"
-FåRß• Ëöô\£li²·'ÁZÌs8YPÄÌƒ!Œ
-€úìÏuj(8T0b\(É)­èœU‹iÔò…ğìÅ‹°ç¢Ê~P>]›/:g^hÀZÔæáÄ Áû3í¤†4 †º=¥½‚6g‚í
-C-ÈbáÆ™ÅPÅÙ:
-|J›#(~²úÚq1Mñß E_kV¥tzÛ#;$›nı7´%ŸŒÕsJ‹¥œ…}Œ«“‘“pšï•rª‚¶N´+Ç-gg±­ó¡.ÿ
-0 ²Í
-endstream 
-endobj 
-28 0 obj 
-<<
-/Filter /FlateDecode
-/Length 1128
->>
-stream
-H‰L–Id7D÷yŠ¼@É¢$jXû†P€WİŒôíı"ôËhÔBI}ŠcYm–¾ûû#j9³e©£!Gi-‘{™çÊcŒ÷çK75Ò79&­ô>-Ïv9s\yO¿Àv†oÖàDnã¾X:ŸÏé±K‹ó<Øœ³ìuåiWY²]Äª£Äº1µª­l{¨<Ü7ÖLËcØÅ.g®÷Ç)y04Kv’ß¥Ç(}ùr‡M*@a6G%[‚í%j¾q¾;MªQÎÎw-‘çİ\…Àây£¬ùø|õ²|µF¾	‡XÆ$^c¾iG[hµr–îê”—2u:Æùû|ıõúãõÛïòóÇ;ŞïŸ¿şy…?Æ;*é7bŸ4³íÀÜ÷—>}ÇjÒÄ 6•g£Šô‹~¾ÿİ”jóêß•ã¼wÙ¹¾^I¹†>×ùú(/?İ¯át0å¯ñP¹8Ô¶°VK‚tÔ¢"Ô4:o ^ÔÙãU#Ğ®>-lÒ<Ä‡×UÆYFBÂXn#gv§ıAÚÁ"NµœS â=Ğ†4C’CØôiKlGÌ84DR]h—åö}êH_tùíY‚øq¼!w İ]újÓƒ: ¢ÌÎ;S9tÚÿ1€;µ&ÃUMÁ±(şVªP>‰Cq®R˜Wå2Œô„$øêÔ˜z¤jM €™|“-0İÌ#ä8"Oò~=Èx¿Uá‘øyLwj°®íéŠÈ®0f¦‚œÜ÷å¯º§H¢'	 h·ğ1ªğ9ÉR«-Îp†Z‹ô7/8ûQE)Ü°ªú™&;^€8d
-0„”™ˆŒ£šÇ-l¤‡Øçt„E
-\Lµ¡Qõmõ¥¢Ç_×rİš§{¢Ñ@îôZ¨E¦C&öm„Æ¾c/˜b‘ÎKƒiÛ+g!%E·^ÕÏ9°¦AÀÜáb);Ó‡œ²»%€Œ¦BÅæôèº6Ñ±g·AX‡Æú½í²ëÃºW
-ÓıUS‚]î‡¡jİ£	ª2UZ!ú‰R”ô°ÊšÆNmİcúØÃf»§¥G³gÕÄì7îVmø0Ğ¿‰î]±1éú]cãëŒgA,—m¯»( g³úŞÏ^	ıÙ`*bûZ+Y÷Ou,´¿häp—ñQÍ$)3x´R„pl—Ó-³ß¬çÑŞ1GÛDPï¶³Ö‚ìéí´Û³@‡òHwymíODç„+“³Z5üï~ZSÄôü–×İÜ¬y·£†B£ã>Ø
-
-yÅ} ¤À0¯m)ÉK…‘, Aú„pædi×æa«|»7ùüãWu#ÖÎÇŠçë¨WôB€õ‘+CC(büh«“x^…UŸª5³»2ç¾ ¡Ğ]ˆÒf`BÇ”W¬Şåí®†‡6‡p=5Á™şwı]|†q¯ÕX÷3‡bÙzWu[^q]±k²#NQğıŸ  SïÈn
-endstream 
-endobj 
-29 0 obj 
-<<
-/Filter /FlateDecode
-/Length 1174
->>
-stream
-H‰T–Í7„ïó::‡‘%JÔÏÕ› § ²@Î‹±;ğ‰}ğëç+jÖA°ÀvS-Q$«Xœk·l3]G¶:Òµ7UfmÙsõ°º¥ÛåÚ=—ÕcÁÙÕG.-Îz»†§¾~l[£ôpİæÌg×^ó˜Cæ˜5¶—\tõÊ¦+ÚÊİxî\§š¼ËÚ¾µÛõZr+¾×ÑÃîŠ¦yk…=úŒ7\ÔšÛîé3+-¯zVä»YŞS.,·åa¹ÆÇCÍuéÎÆ]äİJ¶áa{!ÛÙv{œlå.{.†+›ùXuR\ÔÂ¶%3'ÆûŠŠ€ÊäiÚ®cŸ¤Œä*\
-¶ã 6°<"D¨-NÔÜ£P¹uEÉ­Ô°{‘o’ˆœ7)±¿.BÚ±2\!S%Sgö}¾ßŒ¼öˆªjª3+Ö,V¬Æ‚C…Ö˜'Ÿ."	Ìubë¾„ö´ç/lÀœü¡Êj3¹’„1#¶ï¬Ó+—­ÿ®Ï<µF° Ã£ƒ0;!pwÙÕ"TÏ®Hç× ğV´”ƒûËòØª!Ïhœ) i4Æ´ƒkî-ZcV¥›·­¦:‘û¼Tª˜~7	¨ÊaÒJau…S Œ¹f„¦ìS‘L Âlp×Ô0w“«#á	Òşn——ß/¯ß~~º½÷ë×§¿?~º¥×¿=Ôôæç‡Ä§.6K¢,Mè³øßòH_ß_şL_.o#*
-õxK÷—ï©ƒé¨C7ü0j¥gv#_sÑƒØŸ/¯Ş>ıôø×¥„~õ5i!Ü®·+¾¼}º}ŠÍ¬}ºŞß¾'ğØ&ï.¯>|ú¿GˆÆ]çÛMŸ~yü/1œë%5ñ»¿äöúáúø[ª)}»}aÿ©XMk£[rÖ…|Áüç‹>=G‡MÉ í]§À{Æ¾´ëtd‡çà^²æ…öaŒ+¡0oc¯ Œ‚ÑnZŸCKº¤®QwlõÁŞG+¶¤;Æ‹‹Â•´Ê]“±åÑãè—äİˆlŠF•ĞÅe\/6kË<×Ù¤¾ı~ÌÕHŸÑu‚-¢¿lœc{	#€ÉVPƒˆåèŠ­©ıG(³Ó[ğdFÜô•ˆÛºú,4ß-_i‡Št¤(ša=vñì1eLSH“ĞtYï¤C©Fˆ}Rdi„F¡òğ½G”fä‹ïĞY ªñ˜N+±Z÷R%¨%Ç>Ôo3M*\Î	‰ÁŸ\Ï†Au´¿kj4f´wÜĞ ÚF zíh@§–HÙN®®TKJ±;Bï|p_CMÕê'n5.è[0Rüì$éE¥×œ¶“ˆ—ªuî”l…¬* OX²íèúŠìGÏ·TªQ–ÈJ~ÇøÅ5JÚ\i í3·x­à)¨¿È}œí¢Ş=4£û!ƒ-åcß^øJ/õóË¡ì˜¶7ôq„Z2\i{–3mÄÂ ÏšÇÌÓømÀYÇØÁx~DïĞíí,øé_ ûÍ_
-endstream 
-endobj 
-30 0 obj 
-<<
-/Filter /FlateDecode
-/Length 1217
->>
-stream
-H‰D–Kn&7„÷}
-] I$õXçA` «™ Á æöùŠ²'ğ¢İj‰¤ŠUÅÿu…—×f>Ê;Æ©;Œ…¨ÓLVÏÜ,xİæåãyGu˜Ym¹§µó°Àsóìû°còeÖuB‡úZõ4¾¯-2õÉ7×^Îè”0ÿŒ§ç™hõlœºòˆGİì˜Õ{¾¶º7Y¬ö3óÀP’]ØFªo,ôFP+}ÕÙH±Gá’¡×åu®U¼SR † ¨Õ‰l.ÊôÚbe©n§¬‘X		°é[s¼f®W ‚£ÍÜM,v«\gw¯Ç{y}V›£,îh¼Fç”—yøºµ}‚—¹êîÀ³ŒRU‰B¼Ûë ®N™–oQ-f	¯®Ø}ĞWŸE€±œÈyôBMg_lg«ŠCwŠÄŠàsF¢‚bÌÚ³¯„ç,88yû¾Gí+Š:(´úé4f•Nî/Z,Óå¸Ì¡t¦wè¡Î’òTóuÉçdPI^®I€@ñ‡ÚøçUŞá oàYÇ¾ÑB<XèI´¸Ì]µes‚s®`£%#NmCï Äı‡@¥\»@­(6î|:§ŠA÷V¶Ó Íê‰Ï8Rƒ_òŸäBö=]Tó« ¿°jF"n{VPW—š˜oU ı–ääè=¤ô™€8&NÌ1Ä 2N*æ÷C¸ŞË¦éÙ Üì?ø¢¥::=”NoPÊ¦¸ÃùyOÀŠÕiP£µ;%Ğ 5ãƒb¬H1ˆq¢÷[mà}
-.ñ¶Qr•ö8ñM+DEV6ØúµÂµÂÍ•æ´Œç0Â–òXbÓg
-øô1–h›V&
-°5YDƒgPõ·)9ãBœ/Ä´¾/‚ìm²â4mö†âLvbBKÂÅÖJÕôd˜š{FWzº¼eB[ÈìB”†®¹µâõD’Ì z:ìÍT¤Q¤wE!%N0lÅı9AuŞèxÌoPUïsÕÂÄ¢Ó–XSìã®eÏ[7]xŠ¾|V9Ç5 :wNjıØ½íE]$t»˜øX×mù7±ÔĞ8»Q®6ËÂ5UT©®z4®èØ)É[$R©ğ>F¨ÙŸ±aRZZ½@FÂÉ¼pJ¼|ÃV¿ É"Hıñ 0«!!°á+i„YÈQLl›És¿º`S³”´L’\#¿ç¯çç·ßÿäß¥—òããïçŸ§çG<İn3“WõñıÑ§ïå8ŒÑ´[IÉ•UâP0b•Ÿ †Km˜ôkKïƒãÿ>ï^°„;bŒGÈ}W4YÙÁˆk±íPÚŸYîÿõ­…'1­h„¼÷«¾—Q5dY«işáT®ï$(Fe9¼ÖIê2˜È<Zšƒ*i¦ùõGzª1–³¿ŸËM'ğäÇÄ¹b+ÏHâI+ÁØq®>XÓÏ:  îe"M2ËNÎ\ğkR¶Ğw¿{Œ!áÈyÂ<«kk´Bzîb8‘‚H÷¡×q=ÌZ„4Ø6JFq6_¬h¬‘‚G*ğ	ÿæ¾×æ0Ø¢_LI`¸ÚÚñìv›tv:æ9e-„9´Gbè2ø¹E{~!xŞéã)ÿ	0 7¹ĞÌ
-endstream 
-endobj 
-31 0 obj 
-<<
-/Filter /FlateDecode
-/Length 1139
->>
-stream
-H‰4–A¶©
-Dç¹çQ@ĞõüiïÜ7°zRYI‰AÖ_Ş~ìÛkœµ¿¿škä©ÏÎ°uôÃò|1<×÷ÿÿÈQQßßº#Ìµb·õı…«-òQÉ3Ç©ÎÉ£*zÉ\Za#Ë¾?›#‚=òœ‘~>¶«3NŒ{ü³'9,ëóıEy®Ş×X‘_Ë:cï±f}kñKÃ°;nú·ö$Àa\–÷[Ç(¹m0¦}¶b€‘%”A æğÉ&q(âìXì~•ä,»Ÿå©j"bD±LûrP˜½=Êú ˜“ÒØ˜:Jk¼Î¸!Ir(pğ_hS`VŸä” °CMWHJÛ
-°\ğÛo%-_òÍáxA•ê?BCŸR}ZF‹¦Š¡Ú±Á²üíZsLæ#¬ Cû"^ÄFNÏ,»©v“í ™7Zêjõ¨İaÓ9pŒ¥¤­Mš‰œfb¯~ŞíQĞ×û:íÒkºh@3UğÁŠ¿#õ(²ËÃÕïUÚ‰ú<ûıœ>NÌ”YGO×<ëò®Şºv Fj'…†ÈHë³şé¥NIiˆ’Ÿ¢(¨ƒ'Ä=Hö)†Ğ a‘ ÑÁ½1d0Ñ¡&DÜoÍ}I…Ù¶uğº¬±m.@)Ùœ¦jÄ<ààŠŞË„ĞT>[‚–`ŸÖ&öz`üD£İ'‰ü‚ÿ:IpTVşeã˜6«ÿT…Ş4nJªì#Æ†+‰ã©_àÄïŒŠpœTèWŸ(ÔšGTGE4"tÿ†ùà7â)°&\ŠˆÜ«óRJ3“­BÄ;£‰wš“şB-çKƒäY¡Ó6†T¿H°DYtpJàŠÔÿóbñúM,:$^òEº™û¬NÃ&Õ†À@ÏÔùÿ	9èÍ¶|´ÔÖ*\Ì¤Ğæcf,`ì­¡·Ï.6ô….ó½W£ğ£D%â¬ıL9´ gô´,u}Ã­1á-~ëñ˜‰¥Ô;h#Å­ßméxkB´»=ƒÈx¾ë™ßÆh¦¾°/¦
-UİñvT\¯…Ö»gra$ê!“ ÓøòÛ¥}'¼®CòÎÿ’ÔhˆÕ\J¼ÈF—ÖÎwı­‰¢wÛìôÓ*CÔ«‹â^²î1N^G|^ªò_c?¯ÆD«äHÒkœÛ×MÖØE¢­•µïß‚#šò¶À¤ä2ÖuÊÉ•R…´Iõ«ïŞiĞy§=½H ‚ÅubÖÖĞ·\»c¹´5d ”qwB#£™Ó¦Î`·¼ÖåŸ€(s õ`s;Ø©71Œ±TÅÇpuÛÕÛ¢Èîšì[y?˜Ş­‹sQíÜ¸=:®M¿}ÓQY£´;Ÿ¶„¼¤+ıĞq}mÆ³¹+)-~ª×.Z¼Z«j½‹Á˜kG‚Íè«”kÈä—Ó³ŸÙ™ş¸œg¸öæÁğÚ„Q	Ö§ØÔäÜ×Ôİô£¯9óI¡ïLÑo«Ş”¦‹¾ï_ ²¥Ëá
-endstream 
-endobj 
-32 0 obj 
-<<
-/Filter /FlateDecode
-/Length 1175
->>
-stream
-H‰TVM‹]7İß_áåÌb4–lËÖ6ÓP(Rú ‹&”á%C§„&Yäï÷ù=hx\®%ëÊú8G~wê!]ËÚ\—Öâ}`Ñ›Ô¶¨é2Ö*çæ!S¹YCFKsÓIÍšßU“QM—øn©¬nå.\ºiy9îf—¨ÔQÇù>%ÜD“5q¨W‰IÙğeúM"R¡4è±CÆ!@ZH¬H¹j~ĞÔÀ•ÃÂ\*ã¢…3Ğ:Æö°f¦ÂÛ>%2¹XLœ	E•¦p9%y9ÁÀµÃ F11æ0hE©²Tö÷ŸmA×jÒ¬TüÎÇÓñëñúÍCÁëÕé¨©­2Ë?ÇıIÿÔ¢åôtTÁë\îòı½DZEÑº**WµŒ…"O/§OÇ7ïj›xüòŒ[W]ÇÓğÅSßU£Şn§(ŒÌoßŸ~9î~Clßpxùvşœ‘ØäïãöÎj~×:–yJK¯OÇıÛ—ÇóÇ?}ü÷¯çs¹ó`åÕOHiÒaİ‘SEu‘İeñ½è’au'y]:£{g»ÈôæíãíéoÔŒóÃ›¯…Št¹®.Wî¼}<?§14~©e®¾BŒİ8}8nôXÅ’½wæûr4à·¯âàCİ^=
-°Wg”¯ßËgÖPÿWÃ/‡î„ŠwRqñ:ÊùS¶ıãøB‚À¡%|9 ß€W§k¶„]TÏ ú€rƒm¿¡œÒ¤eÉàµ]€«ğ¾d‘:Ha’âFôŠÍl ŒÎÒÈo„¢iÜÑŠ‹!q|Øbm[¯¸Û÷æÁ8 î8I æ<,†è+İÙ=˜%éL/Ìì``šWçHB‘I.J.ÊÌQß±LTÓ©0²À‰a,Ğ ï‰Ó™õ›47ÒŞXlƒó *–Ã«µ05ã¥5b #B£3
-Ò±A=¹Íâ7HWÛ….`2ZÚb@â 5vˆ_rŒÑ–3Å ¯¦y*c7ÉÉ…—QàğÜwNˆNC3¡ššCˆ|,±ÜY
-€·g!jg&ÎlEZÌmjgÖŠ—T4dÅhyA$Ü :«Ñ=Ígä´Õ:Š˜Ù¡as]1u÷w²Ò¯İoYñ>m£#7‡EJ÷ŒÙ®ĞZiíj	½Hjø¾€„ U&H[.tïÎLÍe^PŒã:·H<*ã_Ûü
-ú.ÎÚû–éÍ–b­#Å‘Ö0ÓpÒ)F¦‘õ]èÑfp$„qÁõôTéŸ¼\‰1^¹¾.³gi{K>¥îà¶eò€ğåVÄ}Ì–ÚÈ«gß‘ÔJ>†Ì?§CKaµl7è	²ãòÙÅš(8çÙïe 5ÛÌKÆAÜÁ·½7üÚÆ6\Fp«Íñ§äÙjAã¨ÛG/nUöæA,òh-»í±6\€~ÏWÆ[Y5\p°G‹ê¥²ü¤eÃ'&U"kâªÀTF4“ë
-jì†`6 ù†»8Eáö\ŒäĞˆØMn)åÿ[`W¢ƒÕn“Ë ¿ÂÑÀ
-endstream 
-endobj 
-33 0 obj 
-<<
-/Filter /FlateDecode
-/Length 1104
->>
-stream
-H‰TVQª$7üŸSôÆ±$Ë²¿s‚#äk7{ûT•ıÂÂë©¶lK¥Rõ¾­·1óé-27Ğ\N­]DÏçõ6kÖµjë!Š¡6…ôÛıFæÙ8o€ŞæŞ
-İ¶ŠÇd Ñöš@{­Ù|ÇZ_ùå0 C"D«`ìlS±å¥{ª!Soİ˜}µ•ä¸ìm«äZŞ7¶æ­»=oÇõ} D¬{³i@+ckÛ3‹sQ¾€l3oqşŒÍÖG'Nÿ&(o´IFæâ^ã%şÎ­ÕloÄ÷Ofaÿ‡ık9P;Ês?÷ ‹d‚IMñF7»ªEÎsÀ¶ÃTà˜ha4#»3XÉ¾ÜÔÆ2JÉC]0äÏ˜­Ğ’7î·aÍ}ªG6&a­­ö†oÂ}‰FŞ€WH‰zŞÕzÁ¾§à<†rÊøÂ:€	Í%º5ëÀ+»nûD§ôë_‡#j£'hÑ%Z
-ª©Õ¬„>±Æ£´DÏC€eğ¶S„tá™èCİÌÓãêÔ7r ï«»C@ø“TXã°^uœ²/ÌO0Æ }òïXEÁÀï£OŸ:§0XN^±‹ç¡Qÿ>¯?^¿½~ùõwüüñØóüøüùúëeZ´'!>C“‚0$òùşâÊ÷ï_OA.›fbÊ0(èç‹ÿ.&¹ïÏß/²‚AïTÃÙ6wpÍÔ‰³Æ~*±ÿ2™EpdR(“œeºÌ8óÖÅfàj?v yCJŠòòIáÎ;îWq•³—tªffáDô–ƒÆ¸¥DulĞªuî+)äó@˜3^ñ¢6ê€~™ öí×x_HüK†IÉËƒ6|…¨®W@‘|‘šat®2§Ó¹J©Ø1ˆ¦LíúdÁ2:wWKÄ-Xv(åV‚§…&rpË°#ÅÙ¥„ÂKc§«B]#iİ¶ó†¦¨_2 }ÛÓÖëhfİè©u?÷nZSÆ³»Æ85f'8ı[TûÆ™T*c@ŸA³„²V£ØŠS^
-å«ºLûÚ8[æÍQ3âå5ö£&µd¡2–¡-ˆ=C¢Ÿ«ùÍûèƒ³`x1h˜l¿«eYÇ
-9„'k
-á`òl¦	ìL9Ñ8ñÖ=?ì¯cËn	±°#8	,Ë$;È1X¿ß1“]SHÏ€[äù@Y¡Ïåé	6±CÅ>BçDòâÄ%ÛÅCA6˜(G@ïØÍºŸ=&í?¦QuÍ›ÖqE—½Œ­KîïÓ`ı8c¬r­óĞlïĞcúÑ†Nª«¥oî8jDØÖğmäW‘s•$ÒyÅ/´A† Yğç{ë3™%£èç˜\vúS¥R§¤\ÅKÓ\j c—~ş` "Å+
-endstream 
-endobj 
-34 0 obj 
-<<
-/Filter /FlateDecode
-/Length 972
->>
-stream
-H‰TU»$EôGâÚÜAš"3ëíç a Ç ¤;ic9ã„Ï¯ÙËîiÔÛYYùˆ|ìÍ½Œ^›·‰`øq‹ÕçèÇ­–Zãøt¡`ÍuÜZñ8bç½XªD»niCĞ†ı<çeÀY›WÁµNué5¯¥ó=J]Œ¥[‚mO©7˜«ô>t>†*´Vv›„N¨ŞavHP2`ïB­	Ízú©½ú– |¼¤`®„£Ìåi&ì5·ÊìAH~ho•=¬1¸]|&1M¨.ñB—TŞe»hß!¬×ë„0aÅCÊá(­”ÉRD-æ“Ú›DƒQ™ZS@°Y,ÆÔùfıkª*Ië€M$CĞ³oŒâU—§ÍT¶g	… b …> Br±P­¡œâİ–96Ù
-w6Vv¸„#[)Øq[æJ2ªP#éÆŠ“\Õ:Ø—¸²b×ªÕ–µjÒ6p J®­ZCĞÌ#D«ªÏn•B ÆPğt†Ò®¡ã=²ô•¯âcgc°Fvù,lÃ…ĞY5´+C[x¹úpwöµÏ>ì¶) „¾FÂ©&gùëH´ºt}Ÿ##×“€yš¦Ã–­ÀyËëµå<ÆÔ¹Ó#W§U´~Î~L±24ÍdmŠ§å$³-V!—:‹V7bÕ@Â‰`L{ër:]%Hn¼iDØDNÂaÒØK‡µµÜêwÑ…1f7–­Íâ[=5¸(Şz…ÈªÈC-VAÒ±–;ĞÙ—VG.ºÊiš!»~V—L:7»M–m…qé¦ä|·Ä¹hG$ZœâÕıõ&t‰_á¡{ºMd®‰‰Í€¹B¡Š–kñá€õ+rÿ
-0¡ødƒŸá÷éò|ùíòá×Ÿ¼~¼_~¸ûŸqøq¾l)ì£¢Y¾¸bçqÿûòûÓÃj\İøv<†g~+àxz~ó<Š'ğøy»3¯ÒzNî|i½şqÿåb
-ÄÊ<şR|ñ™rÅ"¾ÿ|y:]ötSëéª½s÷­«ªÀ¿
-?óïõş™&]ÿI`’iz}|ÁÚÿÈÚG¤XüéññÍíÊÚ™>}Á¦|ÙÈ3ƒ®µôoõêıé-N$©{W.b~¹Ò¾şMƒ–®Ÿòzª)©şæ|†ùé0Ò ‚ı¢›áıŠ•ºù5ß<	àLÉFíhv½U3¥•«è=£ê|åå½Ëìß¿§œc{âiÉ	]ßAN`+^ßĞ;Ãú&ÅŸ÷ËñŸ  Üˆ»¼
-endstream 
-endobj 
-35 0 obj 
-<<
-/Type /Encoding
-/Differences [24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
->>
-endobj 
-36 0 obj 
-<<
-/Encoding 35 0 R
-/Subtype /Type1
-/Name /Helv
-/Type /Font
-/BaseFont /Helvetica
->>
-endobj 
-37 0 obj 
-<<
-/Subtype /Type1
-/Name /ZaDb
-/Type /Font
-/BaseFont /ZapfDingbats
->>
-endobj 
-3 0 obj 
-<<
-/AA 
-<<
-/O 4 0 R
->>
-/Rotate 0
-/TrimBox [629.239 0.0 1241.9 792.0]
-/Resources 
-<<
-/Font 
-<<
-/T1_2 11 0 R
-/T1_1 16 0 R
-/T1_0 21 0 R
->>
-/Properties 
-<<
-/MC2 5 0 R
-/MC1 7 0 R
-/MC0 9 0 R
->>
-/ProcSet [/PDF /Text]
-/ExtGState 
-<<
-/GS0 24 0 R
->>
-/ColorSpace 
-<<
-/CS1 25 0 R
-/CS0 26 0 R
->>
->>
-/Parent 1 0 R
-/Contents [27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R]
-/Type /Page
-/MediaBox [0.0 0.0 1242.0 792.0]
-/CropBox [629.239 0.0 1241.9 792.0]
-/BleedBox [629.239 0.0 1241.9 792.0]
->>
-endobj 
-1 0 obj 
-<<
-/Kids [3 0 R]
-/Type /Pages
-/Count 1
->>
-endobj 
-38 0 obj 
-<<
-/Subtype /XML
-/Type /Metadata
-/Length 3545
->>
-stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-701">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:xap="http://ns.adobe.com/xap/1.0/">
-         <xap:ModifyDate>2017-04-25T12:29:29+05:30</xap:ModifyDate>
-         <xap:CreateDate>2017-03-29T10:27:05-04:00</xap:CreateDate>
-         <xap:MetadataDate>2017-04-25T12:29:29+05:30</xap:MetadataDate>
-      </rdf:Description>
-      <rdf:Description rdf:about=""
-            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
-         <xapMM:DocumentID>uuid:905f5b50-30fa-2346-8f54-107e851effa7</xapMM:DocumentID>
-         <xapMM:InstanceID>uuid:f88f67a5-57d0-43e5-8f5a-b7da7893561f</xapMM:InstanceID>
-      </rdf:Description>
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/">
-         <dc:format>application/pdf</dc:format>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Par Pacific Holdings, Inc. 2016 Annual Report</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <dc:creator>
-            <rdf:Bag>
-            </rdf:Bag>
-         </dc:creator>
-      </rdf:Description>
-      <rdf:Description rdf:about=""
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
-         <pdf:Producer>Preps 6.1.1 - 627</pdf:Producer>
-         <pdf:Trapped>False</pdf:Trapped>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?>
-endstream 
-endobj 
-39 0 obj 
-<<
-/Metadata 38 0 R
-/Type /Catalog
-/Pages 1 0 R
->>
-endobj 
-40 0 obj 
-<<
-/ModDate (D:20170425122929+05'30')
-/CreationDate (D:20170329102705-04'00')
-/Title (Par Pacific Holdings, Inc. 2016 Annual Report)
-/Trapped /False
-/Creator (pdftk 2.02 - www.pdftk.com)
-/Producer (Preps 6.1.1 - 627)
->>
-endobj xref
-0 41
-0000000000 65535 f 
-0000042870 00000 n 
-0000000000 65535 f 
-0000042364 00000 n 
-0000000015 00000 n 
-0000006999 00000 n 
-0000000258 00000 n 
-0000013779 00000 n 
-0000007038 00000 n 
-0000020560 00000 n 
-0000013818 00000 n 
-0000022901 00000 n 
-0000020600 00000 n 
-0000020775 00000 n 
-0000022574 00000 n 
-0000021186 00000 n 
-0000028595 00000 n 
-0000023162 00000 n 
-0000023589 00000 n 
-0000028076 00000 n 
-0000024229 00000 n 
-0000030270 00000 n 
-0000029985 00000 n 
-0000029265 00000 n 
-0000030624 00000 n 
-0000030753 00000 n 
-0000030954 00000 n 
-0000031160 00000 n 
-0000032400 00000 n 
-0000033605 00000 n 
-0000034856 00000 n 
-0000036150 00000 n 
-0000037366 00000 n 
-0000038618 00000 n 
-0000039799 00000 n 
-0000040847 00000 n 
-0000042174 00000 n 
-0000042276 00000 n 
-0000042929 00000 n 
-0000046560 00000 n 
-0000046629 00000 n 
-trailer
-
-<<
-/Info 40 0 R
-/ID [<f965e8ad0ae90de6859cdf2a4b0583ca><9752b2eb0db1ed919ba43fb5b35cd327>]
-/Root 39 0 R
-/Size 41
->>
-startxref
-46866
-%%EOF
