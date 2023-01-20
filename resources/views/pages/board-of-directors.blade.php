@@ -79,7 +79,7 @@
                                             <div class="biography section">
                                                 <div class="biographywrapper">
                                                     <aside class="biographycomponent">
-                                                        <img class="biographycomponent__authorImage lozad" data-src="{{ asset('content/dam/aveva/images/people/board-members/Baystone Corporation-Board-Photo-Philip-Aiken-200x200px.png.rendition/mobile-1x.png') }}" alt="Philip Aiken" />
+                                                        <img class="biographycomponent__authorImage lozad" data-src="https://www.aveva.com/content/dam/aveva/images/people/leadership/2022/W014-James-Kidd_232x232.jpg.rendition/mobile-1x.png" alt="Philip Aiken" />
                                                         <div class="biographycomponent__authorDetails">
                                                             <p class="biographycomponent__authorName">Philip Aiken</p>
                                                             <p class="biographycomponent__authorRole">Chairman</p>
@@ -131,7 +131,7 @@
                                             <div class="biography section">
                                                 <div class="biographywrapper">
                                                     <aside class="biographycomponent">
-                                                        <img class="biographycomponent__authorImage lozad" data-src="https://www.aveva.com/content/dam/aveva/images/people/board-members/Baystone Corporation-Board-Photo-James-Kidd-200x200px.png.rendition/mobile-1x.png" alt="James Kidd" />
+                                                        <img class="biographycomponent__authorImage lozad" data-src="https://www.aveva.com/content/dam/aveva/images/people/leadership/2022/W014-Olivier-Blum_232x232.jpg.rendition/mobile-1x.png" alt="James Kidd" />
                                                         <div class="biographycomponent__authorDetails">
                                                             <p class="biographycomponent__authorName">James Kidd</p>
                                                             <p class="biographycomponent__authorRole">Deputy CEO and CFO</p>
