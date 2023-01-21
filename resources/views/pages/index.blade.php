@@ -311,7 +311,8 @@
                                             <div class="hero-banner-btn-wrapper">
                                                 <div class="smartbutton embed section">
                                                     <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-                                                        <div class="smartbutton embed aem-GridColumn aem-GridColumn--default--12"> <a href="{{ route('contact') }}" data-at="Contact Us-Talk to an Expert" data-track="herobanner" data-title="Talk to an Expert" data-cta="Contact Us" class="secondary-white-btn  " target="_self">Contact Us</a> </div>
+                                                        <div class="smartbutton embed aem-GridColumn aem-GridColumn--default--12">
+                                                            <a href="{{ route('contact') }}" data-at="Contact Us-Talk to an Expert" data-track="herobanner" data-title="Talk to an Expert" data-cta="Contact Us" class="secondary-white-btn  " target="_self">Contact Us</a> </div>
                                                     </div>
                                                 </div>
                                                 <div class="smartbutton embed section">

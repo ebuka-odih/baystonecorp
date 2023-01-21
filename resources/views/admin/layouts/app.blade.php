@@ -10,7 +10,7 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="./images/favicon.png">
     <!-- Page Title  -->
-    <title> Premaxcorp Dashboard</title>
+    <title> BaystoneCorp Dashboard</title>
     <!-- StyleSheets  -->
     <link rel="stylesheet" href="{{ asset('assets/css/dashlite.css?ver=2.4.0') }}">
     <link id="skin-default" rel="stylesheet" href="{{ asset('assets/css/theme.css?ver=2.4.0') }}">
@@ -26,7 +26,7 @@
             <div class="nk-sidebar-element nk-sidebar-head">
                 <div class="nk-sidebar-brand">
                     <a href="{{ route('admin.dashboard') }}" class="logo-link">
-                        <h3 class="text text-white">Premaxcorp</h3>
+                        <h3 class="text text-white">Baystone Corp</h3>
                         {{--                                <img class="logo-light logo-img" src="./images/logo.png" srcset="./images/logo2x.png 2x" alt="logo">--}}
                         {{--                                <img class="logo-dark logo-img" src="./images/logo-dark.png" srcset="./images/logo-dark2x.png 2x" alt="logo-dark">--}}
                     </a>
@@ -168,14 +168,7 @@
             <div class="nk-footer">
                 <div class="container-fluid">
                     <div class="nk-footer-wrap">
-                        <div class="nk-footer-copyright"> &copy; 2020 DashLite. Template by <a href="https://softnio.com" target="_blank">Softnio</a>
-                        </div>
-                        <div class="nk-footer-links">
-                            <ul class="nav nav-sm">
-                                <li class="nav-item"><a class="nav-link" href="#">Terms</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">Privacy</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">Help</a></li>
-                            </ul>
+                        <div class="nk-footer-copyright"> &copy; 2023 DashLite. Template by <a href="https://softnio.com" target="_blank">Softnio</a>
                         </div>
                     </div>
                 </div>
