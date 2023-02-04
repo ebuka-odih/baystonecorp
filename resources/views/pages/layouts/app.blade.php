@@ -305,7 +305,7 @@
                                         <nav class="main-navbar">
                                             <div class="container-md main-navbar__wrapper" aria-label="Main Navigation" role="navigation"> <a class="main-navbar__toggle" href="#"><span></span></a>
                                                 <a class="main-navbar__logo" href="{{ route('homepage') }}" data-track="Global Header/Footer" data-at="Aveva" data-cta="Baystone Corporation">
-                                                    <img style="height: 100px; width: 120px"  class="logo" src="{{ asset('img/logo.png') }}" alt="Par Pacific" />
+                                                    <img style="height: 150px; width: 170px"  class="logo" src="{{ asset('img/logo.png') }}" alt="Par Pacific" />
 {{--                                                    <img src="content/experience-fragments/aveva/en/site/header/master/_jcr_content/root/responsivegrid/globalheader/logo.coreimg.svg/1596291684683/header-logo.svg" alt="Aveva" /> --}}
                                                 </a>
                                                 <ul class="main-navbar-links">
