@@ -294,7 +294,7 @@
                             </section>
                         </div>
                         <div class="herobanner aem-GridColumn aem-GridColumn--default--12">
-                            <section class="hero-banner u-hero-height-small u-banner-light" data-bg="/content/dam/aveva/images/banners/offers/CTA_banner_2000x712.png" abstyle="background-image: linear-gradient(110deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.4) 40%,rgba(0, 0, 0, 0) 60%),url(/content/dam/aveva/images/banners/offers/CTA_banner_2000x712.png);">
+                            <section class="hero-banner u-hero-height-small u-banner-light" data-bg="/img/banner.jpg" abstyle="background-image: linear-gradient(110deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.4) 40%,rgba(0, 0, 0, 0) 60%),url(/img/banner.jpg);">
                                 <div class="container-md hero-banner__wrapper">
                                     <div class="hero-banner-left-section">
                                         <div class="hero-banner-content">
