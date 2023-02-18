@@ -113,7 +113,7 @@
                                         <div class="form-group">
                                             <label class="form-label" for="pay-amount-1">Duration</label>
                                             <div class="form-control-wrap">
-                                                <input type="date" name="duration" class="form-control" value="{{ old('duration', optional($project)->duration) }}" id="pay-amount-1">
+                                                <input type="text" name="duration" class="form-control" value="{{ old('duration', optional($project)->duration) }}" id="pay-amount-1">
                                             </div>
                                         </div>
                                     </div>
