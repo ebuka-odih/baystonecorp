@@ -45,6 +45,7 @@ class ProjectController extends Controller
             'amount' => 'required',
             'date_awarded' => 'required',
             'start_date' => 'required',
+            'duration' => 'required',
             'contract_num' => 'nullable',
             'photo' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
             'certificate' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
@@ -91,6 +92,7 @@ class ProjectController extends Controller
                 'amount' => 'required',
                 'date_awarded' => 'required',
                 'start_date' => 'required',
+                'duration' => 'required',
                 'contract_num' => 'nullable',
                 'photo' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
 //                'certificate' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
@@ -115,6 +117,7 @@ class ProjectController extends Controller
                 $project->contract_location = $request->get('contract_location');
                 $project->date_awarded = $request->get('date_awarded');
                 $project->start_date = $request->get('start_date');
+                $project->duration = $request->get('duration');
                 $project->amount = $request->get('amount');
 
                 $project->photo = $input['image_name'];
@@ -134,6 +137,7 @@ class ProjectController extends Controller
                 $project->contract_location = $request->get('contract_location');
                 $project->date_awarded = $request->get('date_awarded');
                 $project->start_date = $request->get('start_date');
+                $project->start_date = $request->get('duration');
                 $project->amount = $request->get('amount');
 
                 //        $project->photo = $input['image_name'];

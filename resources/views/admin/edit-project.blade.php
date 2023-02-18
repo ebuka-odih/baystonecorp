@@ -109,6 +109,14 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <label class="form-label" for="pay-amount-1">Duration</label>
+                                            <div class="form-control-wrap">
+                                                <input type="date" name="duration" class="form-control" value="{{ old('duration', optional($project)->duration) }}" id="pay-amount-1">
+                                            </div>
+                                        </div>
+                                    </div>
 
 
                                     <div class="col-lg-6">

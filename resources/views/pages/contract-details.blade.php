@@ -116,6 +116,10 @@
                                            <th>Start Date:</th>
                                            <td>{{ date('d-m-Y', strtotime($project->start_date)) }}</td>
                                        </tr>
+                                       <tr>
+                                           <th>Duration:</th>
+                                           <td>{{ date('d-m-Y', strtotime($project->duration)) }}</td>
+                                       </tr>
                                    </table>
 
                                </div>
