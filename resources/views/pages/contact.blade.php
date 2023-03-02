@@ -158,7 +158,7 @@
                                                             <br>
                                                            <h4> Baystone USA </h4>
                                                             <p>1301 K St NW, Washington, DC 20005, United States</p>
-                                                            <p>information@premaxcorp.com</p>
+                                                            <p>information@baystonecorp.com</p>
                                                             <hr>
 
 
@@ -167,7 +167,7 @@
 
                                                            <p> 343 Preston Street 11th Floor, Ottawa, ON K1S 1N4, Canada</p>
 
-                                                            <p>information@premaxcorp.com</p>
+                                                            <p>information@baystonecorp.com</p>
                                                             <hr>
 
 
@@ -176,7 +176,7 @@
 
                                                             <p>119 Jermyn Street SW1Y 6HH, London</p>
 
-                                                            <p>information@premaxcorp.com</p>
+                                                            <p>information@baystonecorp.com</p>
                                                         </div>
 
                                                     </div>
