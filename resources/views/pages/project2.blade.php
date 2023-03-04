@@ -33,6 +33,26 @@
             margin-left: 15%;
             margin-right: 15%;
         }
+        @media only screen and (max-width: 600px) {
+            .form-div {
+                border-radius: 5px;
+                padding: 30px;
+                margin-left: 15%;
+                margin-right: 15%;
+                width: 100%;
+            }
+            input[type=submit] {
+                width: 30%;
+                background-color: #4d69e0;
+                color: white;
+                padding: 14px 20px;
+                margin: 8px 0;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+            
+        }
     </style>
 
     <div class="main-container aem-GridColumn aem-GridColumn--default--12">
@@ -93,14 +113,14 @@
 {{--                                    <h1 class="background-container__heading">Enter your contract tracking code below</h1>--}}
 {{--                                </div>--}}
                                 <div class="column-control section">
-                                    <div class="container">
+                                    <div class="container-fluid">
                                         <div class="row align-items-center coltype-1">
                                             <div class="col col-12">
                                                 <div class="text section">
                                                     <div class="cmp-text" >
 
 
-                                                        <div class="form-div">
+                                                        <div  >
                                                             <form action="{{ route('track_contract') }}"  method="POST">
                                                                 @csrf
                                                                 @if ($errors->any())
