@@ -391,26 +391,19 @@
                                             <div class="main-navbar-responsive-wrapper u-hide">
                                                 <div class="container-md main-navbar-responsive" role="navigation" aria-label="Responsive Navigation">
                                                     <ul class="main-navbar-responsive__main-list level1">
-                                                        <li class="l1-item"> <a href="en/industries/index.html" data-id="industries" data-cta="Industries" data-at="Industries" data-track="Global Header" target="_self">Industries
+                                                        <li class="l1-item"> <a href="{{ route('industries') }}" data-id="industries" data-cta="Industries" data-at="Industries" data-track="Global Header" target="_self">Industries
                                                                 <i class="icon-right-arrow l1-right--arrow"></i>
                                                             </a> </li>
-                                                        <li class="l1-item"> <a href="en/offerings/index.html" data-id="offerings" data-cta="Offerings" data-at="Offerings" data-track="Global Header" target="_self">Offerings
+                                                        <li class="l1-item"> <a href="{{ route('industries') }}" data-id="offerings" data-cta="Offerings" data-at="Offerings" data-track="Global Header" target="_self">Offerings
                                                                 <i class="icon-right-arrow l1-right--arrow"></i>
                                                             </a> </li>
-                                                        <li class="l1-item"> <a href="en/perspectives/index.html" data-id="resources" data-cta="Resources" data-at="Resources" data-track="Global Header" target="_self">Resources
-                                                                <i class="icon-right-arrow l1-right--arrow"></i>
-                                                            </a> </li>
-                                                        <li class="l1-item"> <a href="en/about/index.html" data-id="about-us" data-cta="About Us" data-at="About Us" data-track="Global Header" target="_self">About Us
+                                                        <li class="l1-item"> <a href="{{ route('about') }}" data-id="about-us" data-cta="About Us" data-at="About Us" data-track="Global Header" target="_self">About Us
                                                                 <i class="icon-right-arrow l1-right--arrow"></i>
                                                             </a> </li>
                                                     </ul>
                                                     <ul class="main-navbar-responsive__utility-list">
-                                                        <li> <a href="https://investors.aveva.com/" rel="noopener noreferrer" target="_blank">Investors</a> </li>
-                                                        <li> <a href="en/about/partners/index.html" target="_self">Partners</a> </li>
-                                                        <li> <a href="en/education/index.html" target="_self">Education</a> </li>
-                                                        <li> <a href="en/training/index.html" target="_self">Training</a> </li>
-                                                        <li> <a href="en/support-and-success/index.html" target="_self">Support &amp; Success</a> </li>
-                                                        <li> <a href="en/contact/index.html" target="_self">Contact Us</a> </li>
+                                                        <li> <a href="{{ route('project') }}" target="_self">Project</a> </li>
+                                                        <li> <a href="{{ route('contact') }}" target="_self">Contact Us</a> </li>
                                                     </ul>
 
                                                 </div>
